@@ -1,3 +1,7 @@
+Google Keep Clone is a note-taking web application. The app offers a variety of tools for taking notes, including text, lists, quote, paragraph and table. Tha app also allow you to add your own tag with custom color.
+<br>
+<br>
+
 <b>Highlighted Features used in this project:</b>
 
 - Hooks used : useState
