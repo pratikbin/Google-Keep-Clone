@@ -11,6 +11,6 @@
 - Moment(dependency): DateTime Librery used for finding note time.
                     : fromnow() - This is sometimes called timeago or relative time.
 
-<img src="Output1.jpg"/>
-<img src="Output2.jpg"/>
+<img src="Output1.JPG"/>
+<img src="Output2.JPG"/>
 
