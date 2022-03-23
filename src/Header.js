@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <>
       <div className="header">
-        <span className="google_logo">Google - 1</span>
+        <span className="google_logo">Google - dev</span>
         <span>Keep</span>
       </div>
     </>
